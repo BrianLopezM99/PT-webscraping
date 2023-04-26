@@ -1,0 +1,514 @@
+1682407628107	geckodriver	INFO	Listening on 127.0.0.1:53886
+1682407631122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofilefMsGYp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682407631880	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682407631884	Marionette	INFO	Listening on port 53906
+Read port: 53906
+WebDriver BiDi listening on ws://127.0.0.1:53887
+1682407632074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofilefMsGYp\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53887/devtools/browser/0ee5058e-426c-4654-88da-beb73ed51799
+1682407638544	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 47 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/WOr5dEYgPA5i-Gej?3b264de4503bbb45=e-h4W-wylpfaHdKYNhdeaKZ86Xyn-LvJHpfrwvmVaV3DscWZbwE3WBjnLZC92bLcJyZfKsJRXrhGJr63NVcNYnWJjzQ0CCn1SsKvB7XgslkSR9UkfweiW8SWTQbZSmEPkZoi9tFYY6PXD8VHJxRA5Hi6BYHhBxHiVmnQfVh-65rQo5kD150c_Oqtduc8Ctgi_bw_i4KDdhPh5H0F&jb=3633242c6a716d753f5f696c6e6775732c6279673d5d636c646d7f7b2d303039382c687362773f4c697067666d702668796a3f46637a6f6e6f722f303033393a, line 696: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682407639605	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682407798780	geckodriver	INFO	Listening on 127.0.0.1:54199
+1682407801789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofilehVTI8X"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682407802010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682407802013	Marionette	INFO	Listening on port 54210
+WebDriver BiDi listening on ws://127.0.0.1:54200
+Read port: 54210
+1682407802354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofilehVTI8X\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54200/devtools/browser/19f40024-da66-43b8-98ae-de607a2e541e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 2522 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682407808412	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://drfdisvc.walmart.com/3F9ey9lX1H9MkawW?307bb02dbf691b14=GsTCucukaFulabp_1bRi3qouk6y4XQYAhQGBQF_e5ncBHEWWUMIWGTfS0qj64Lz11i3moNAv7W7x5ROIVyCdjQmhYnEYiby4YrDfnGPktC9FTAmxcqx0uFRhWVf9ByglvaWApj9xj4XbLd71DBE5ux8hihwFcUik_IspRs7Afb6OPwo1VHnsbkaKfYPw_AYa2XvIKFAgK565kP2I&jb=3e3926266071657f3f5f696e666f7d732e62716f375f616e6c6775732f30303b382e60736a7d3d4663706f6c6d70266a71623746617a676665702d3238393332, line 384: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682407808848	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682407889772	geckodriver	INFO	Listening on 127.0.0.1:54438
+1682407892787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofiletNHjSh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682407893014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682407893018	Marionette	INFO	Listening on port 54454
+WebDriver BiDi listening on ws://127.0.0.1:54439
+Read port: 54454
+1682407893197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofiletNHjSh\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54439/devtools/browser/3fb6a51a-0a33-433a-b3ae-bc5aa2eb4823
+1682407899396	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://drfdisvc.walmart.com/F7eGBCKfCILZjL1R?f8b27c48d5038510=KKF20-kmp3fR-ZCM6LGQNHcXZIs3NXA9zd3_Axlk29pPoNMfsRADzY3maAq9ORd0e0sngH-8BoslnewbYGNm3of4d3DVw5j9a7jrkS5kw69Brt7eHPin_U5z-UTXyafep6Ssjitw0uh9Giex8ikd7-Cfz77p4iJr25Bdb8K2WILBekwQF6QK4YMWwS36NnQYCj7ioRslqw_V3iEt&jb=3c392c2c6a7b65773f55616e666d757b2668736d3d55696c6e677d7125303231302e6873687d374c697a6f646d7a2e6a71603f4e697065646f7a25303a393b30, line 15: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682407901234	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 5675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682407918049	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918053	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918064	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918067	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918070	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918074	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918077	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918080	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918088	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407918091	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+1682407931440	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931449	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931452	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931457	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931460	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931476	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407931479	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+1682407946725	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946734	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946737	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946741	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946746	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946749	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946752	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946754	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946757	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407946762	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+1682407968109	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968114	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968118	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968131	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968136	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968140	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968143	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968147	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682407968153	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+1682408073251	geckodriver	INFO	Listening on 127.0.0.1:54789
+1682408076264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofilek2e2MY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682408076694	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682408076697	Marionette	INFO	Listening on port 54804
+Read port: 
+1682408076809	geckodriver::browser	WARN	Failed fo convert  to u16
+console.error: "Warning: unrecognized command line flag -incognito\n"
+WebDriver BiDi listening on ws://127.0.0.1:54790
+Read port: 54804
+1682408078742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofilek2e2MY\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:54790/devtools/browser/c763015c-0a70-42f9-96a5-e74fd9996490
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 488))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 7242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/uePNrdVps2dTzFWX?bc447af65325829a=AeImlxcOYqu-j49n-O_mX-7AAvkFCzE8dYogO8qb-uV2UZCpL9hV92pdyFqWkoHzE-eY2eqg6xQeHrfeAPQwo8Ci94LNzBpIeYV3WTDk1HGPcZp7KsC1_elOM0QtmmE9Ga1xuDjbXXgfnhfgXoZBPy5Fpb_WdLfKIhaji1ztUDtMtpzuOeyALDy5XFAGP4xWGkQczUV62LhfGNy4&jb=3e33262668796f7d3f576b646c6d7d732c68716d3d57636c666775712d3030313a26627b6a773d466b78656e6d7824607b603746637067646f782f3032393330, line 1148: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682408117508	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117514	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117517	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117521	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117524	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117529	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117534	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117536	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117538	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408117541	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682408185247	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185251	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185260	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185264	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185268	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185272	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185275	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185278	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185281	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408185287	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1682408274067	Marionette	INFO	Stopped listening on port 54804
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+NetworkHelper.parseSecurityInfo threw an exception: Security state 0 has no known STATE_IS_* flags.
+console.error: "Security state 0 has no known STATE_IS_* flags."
+1682408276322	geckodriver	INFO	Listening on 127.0.0.1:55444
+1682408279351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileQkAhWy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682408279576	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682408279579	Marionette	INFO	Listening on port 55459
+console.error: "Warning: unrecognized command line flag -incognito\n"
+WebDriver BiDi listening on ws://127.0.0.1:55445
+Read port: 55459
+1682408279786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileQkAhWy\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55445/devtools/browser/d14bb53c-ec66-44ec-823a-adb03b4efba9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 5659 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/gQ02URhrkAHpg7tE?000fbbaa4c2e7add=2lu446j1Z2ZFjhM955b1voWKvHdA8j2K4TABvnMVJw4g6K4WU2FvuXJ85G8KNrZal3fxq7JVPjIcQgI6IG5i6NsGuHNcUqkX6WLKm_5QwTauDRpU2SiU_SCvM3Qf3MMt9wH64PGPEKfDCGSEts2X5O-9AbFZ9-z7efA0MxIFKmPtFlQpxfewS7olQ74WjxKKGuu9PxfiSu6dlfsm&jb=3433242c68796f7d3f556b6e6c67777b24687b6f375d6964646f7f712d303831322c6a7b60773f4c6b78656e6d7a246a7b6a3d4e6b706d666572253830313930, line 692: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682408286063	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682408299141	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299145	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299154	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299158	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299172	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408299182	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682408312525	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312530	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312536	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312540	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312544	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312553	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312557	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312560	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408312563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436153	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436165	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436175	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436179	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436182	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436184	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436187	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408436194	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+1682408446924	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446942	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446947	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446951	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446955	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446961	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446965	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446969	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408446973	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-ff5f/c2df6229-a9be-455a-9a1a-f890de3bb96b/v2/es-MX/_next/static/chunks/pages/_app-4c2adbb3eb240888.js, line 1: TypeError: e is undefined
+1682408496438	geckodriver	INFO	Listening on 127.0.0.1:55938
+1682408511734	geckodriver	INFO	Listening on 127.0.0.1:55969
+1682408514738	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; W ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileAjBVlk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682408514960	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682408514963	Marionette	INFO	Listening on port 55986
+console.error: "Warning: unrecognized command line flag -incognito\n"
+console.error: "Warning: unrecognized command line flag -no-sandbox\n"
+WebDriver BiDi listening on ws://127.0.0.1:55970
+Read port: 55986
+1682408515270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileAjBVlk\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:55970/devtools/browser/754ac94e-6e09-43c0-849d-5b78815ff035
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BnousL5ILBVKPox_BhCtx9cLC8w-HAhp3a1hPLgmzAw.js line 2 > eval line 180 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/KMkFmTwpJAV-XUN8?5ce56b9da469cb32=W7tqs06F6uDI-loKL9IKDrBoMiEKFPZcfba0IK4211LgmVkuI8uLtXGRCq7R64sLVTAXyhUSxt1MPVeyVdJO1OMWR4wnMxpFPiuMG3xHsRkF-C31wNkFzpG1J9fdvmDKWHRG9SnPi7eBHWgIB5UKx7gq4Uh8_74TtrcLzAi7SrjntxOSPLyvhdEQTPAuZj9c7jNhdr-dRpUrJBpB&jb=34312c246871657d3d5d616c64657d712c60716535576966646f7f7327383a3932266a71607537446b706f6e6f722e68736837446378676c6778253a30313932, line 1032: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682408523936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1682408531845	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531851	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531855	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531858	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531863	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531869	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531873	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531876	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531879	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408531882	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682408833596	geckodriver	INFO	Listening on 127.0.0.1:56534
+1682408836611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56535" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileRyj1Ey"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682408836829	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682408836832	Marionette	INFO	Listening on port 56548
+WebDriver BiDi listening on ws://127.0.0.1:56535
+Read port: 56548
+1682408837160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileRyj1Ey\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56535/devtools/browser/2c70e19a-dfdb-4cea-b35b-3d6657dc8e7f
+JavaScript error: https://super.walmart.com.mx/blocked?url=Lw==&uuid=68c9638f-e33d-11ed-adf9-52476a587776&vid=&g=b line 5 > injectedScript, line 2: ReferenceError: fbq is not defined
+JavaScript error: https://super.walmart.com.mx/blocked?url=Lw==&uuid=68c9638f-e33d-11ed-adf9-52476a587776&vid=&g=b line 5 > injectedScript, line 2: ReferenceError: fbq is not defined
+1682408841312	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841315	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841322	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841325	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841328	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841329	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841331	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841332	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408841335	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1682408869150	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869154	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869157	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869159	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869161	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869164	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869166	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869168	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869170	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408869172	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[Parent 12500, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:777
+1682408875394	geckodriver	INFO	Listening on 127.0.0.1:56673
+1682408878407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56674" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileqWSv6C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682408878638	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682408878641	Marionette	INFO	Listening on port 56694
+WebDriver BiDi listening on ws://127.0.0.1:56674
+Read port: 56694
+1682408878892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileqWSv6C\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56674/devtools/browser/7430afde-e594-46e2-b7c6-c770c306c50b
+JavaScript error: https://super.walmart.com.mx/blocked?url=Lw==&uuid=81b7b59a-e33d-11ed-b6f0-475657625443&vid=&g=b line 5 > injectedScript, line 2: ReferenceError: fbq is not defined
+JavaScript error: https://super.walmart.com.mx/blocked?url=Lw==&uuid=81b7b59a-e33d-11ed-b6f0-475657625443&vid=&g=b line 5 > injectedScript, line 2: ReferenceError: fbq is not defined
+1682408882952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882956	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882958	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882960	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882962	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882964	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882966	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882970	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882972	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408882973	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://super.walmart.com.mx/px/PXAFlYiz9n/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1682408925510	geckodriver	INFO	Listening on 127.0.0.1:56841
+1682408928522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56842" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileL1yzRQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1682408928744	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1682408928747	Marionette	INFO	Listening on port 56853
+WebDriver BiDi listening on ws://127.0.0.1:56842
+Read port: 56853
+1682408929067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lopez\\AppData\\Local\\Temp\\rust_mozprofileL1yzRQ\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:56842/devtools/browser/0504b77d-1eb6-4def-9da7-2ab760f5861d
+JavaScript error: https://super.walmart.com.mx/blocked?url=Lw==&uuid=9f999efb-e33d-11ed-ad32-794c516b6e59&vid=&g=b line 5 > injectedScript, line 2: ReferenceError: fbq is not defined
+JavaScript error: https://super.walmart.com.mx/blocked?url=Lw==&uuid=9f999efb-e33d-11ed-ad32-794c516b6e59&vid=&g=b line 5 > injectedScript, line 2: ReferenceError: fbq is not defined
+1682408933021	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933025	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933034	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933038	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933041	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933045	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933052	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933056	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408933059	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1682408934601	Marionette	INFO	Stopped listening on port 56853
+Dynamically enable window occlusion 1
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:727:15
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.sys.mjs:458:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.sys.mjs:10:28
+_checkPendingPings@resource://gre/modules/TelemetrySend.sys.mjs:863:17
+setup@resource://gre/modules/TelemetrySend.sys.mjs:803:18
+setup@resource://gre/modules/TelemetrySend.sys.mjs:241:30
+setupTelemetry/this._delayedInitTask<@resource://gre/modules/TelemetryControllerParent.sys.mjs:824:36
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:576:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 727: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
