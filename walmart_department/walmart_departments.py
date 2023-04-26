@@ -92,7 +92,8 @@ while True:
                     "class":"org.openqa.selenium.Proxy",
                     "autodetect":False
                 }
-                print(PROXY)
+                print('Asignando nueva direccion: ' + PROXY)
+                print('---En caso de superar los 5 intentos, intentar con una lista de proxy diferente/nueva--- o reiniciar el scraper despues de 5 minutos desde su ultima ejecucion')
                 i = 0
             else:
                 i=i + 1

@@ -1,5 +1,5 @@
 options_list = [   
-                # '--headless',
+                '--headless',
                 '--incognito',
                 '--start-maximized',  
                 '--disable-blink-features',   
