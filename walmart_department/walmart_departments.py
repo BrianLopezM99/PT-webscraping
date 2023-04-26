@@ -9,6 +9,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 from selenium.webdriver.common.action_chains import ActionChains
+from fake_useragent import UserAgent
+
+
 
 from options import options_list
 
@@ -17,9 +20,30 @@ options = webdriver.ChromeOptions()
 for option in options_list:
     options.add_argument(option)
 
+user_agent = UserAgent()
+
+options.add_argument(f'--user-agent={user_agent.random}')
 time.sleep(2)
 
 driver = webdriver.Chrome(options=options)
+
+with open('walmart_department\proxfile.txt', 'r') as f:
+    lineas = f.readlines()
+PROXY = random.choice(lineas)
+
+# Imprimir la fila aleatoria
+print(PROXY)
+ # IP:PUERTO del proxy
+webdriver.DesiredCapabilities.CHROME['proxy']={
+    "httpProxy":PROXY,
+    "ftpProxy":PROXY,
+    "sslProxy":PROXY,
+    "noProxy":None,
+    "proxyType":"MANUAL",
+    "class":"org.openqa.selenium.Proxy",
+    "autodetect":False
+}
+
 print('----------Initializing Scraper----------')
 
 url_web = 'https://super.walmart.com.mx/'
@@ -58,6 +82,17 @@ while True:
         for i in range(2):
             if(i == 1):
                 driver.get(url_web)
+                PROXY = random.choice(lineas)
+                webdriver.DesiredCapabilities.CHROME['proxy']={
+                    "httpProxy":PROXY,
+                    "ftpProxy":PROXY,
+                    "sslProxy":PROXY,
+                    "noProxy":None,
+                    "proxyType":"MANUAL",
+                    "class":"org.openqa.selenium.Proxy",
+                    "autodetect":False
+                }
+                print(PROXY)
                 i = 0
             else:
                 i=i + 1
@@ -72,12 +107,14 @@ print('-----index page -----')
 btn_categories = driver.find_element(By.XPATH, xpath_department)
 time.sleep(2)
 btn_categories.click()
+print('---Click btn_categories---')
 
 wait.until(EC.visibility_of_element_located((By.XPATH, xpath_categories_section)))
 
 abarrotes_seccion = driver.find_element(By.XPATH, xpath_categories_section)
 time.sleep(2)
 abarrotes_seccion.click()
+print('---Click abarrotes_seccion---')
 
 
 get_category_columns = driver.find_element(By.XPATH, xpath_category_columns)
@@ -90,8 +127,10 @@ jsonobjet = {
     "categories": [
     ],
 }
+print('---creando JSON---')
 time.sleep(2)
 for element in child_div_elements:
+    ('---Comenzando iteracion---')
     li_element = element.find_elements(By.XPATH, './li')
 
     for child_e in li_element:
@@ -122,7 +161,7 @@ for element in child_div_elements:
 
         category_obj['subcategories'] = subcategories_array
         jsonobjet['categories'].append(category_obj)
-
+print('---Generando fichero JSON---')
 json_clean = json.dumps(jsonobjet, ensure_ascii=False)    
 
 print('------------SCRAPPER FINALIZADO------------')
