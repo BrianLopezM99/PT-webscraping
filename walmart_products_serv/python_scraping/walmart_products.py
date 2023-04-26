@@ -56,15 +56,18 @@ driver = webdriver.Chrome(options=options)
 
 load_dotenv()
 
+# Recuperar el parámetro pasado por Node.js
+url_site_param = sys.argv[1]
+
 url_web = os.getenv("URL_SITE_INDEX")
 driver.implicitly_wait(10)
-driver.get('https://super.walmart.com.mx/browse/abarrotes/abarrotes-de-nuestras-marcas/despensa-basica/120005_4130241_4130242')
+driver.get(url_site_param)
 
 time.sleep(random.uniform(1, 4))
 
 wait = WebDriverWait(driver, 5)
 data = {
-    "url": "https://super.walmart.com.mx/browse/abarrotes/abarrotes-de-nuestras-marcas/despensa-basica/120005_4130241_4130242",
+    "url": url_site_param,
     "products": []
 }
 
@@ -171,13 +174,7 @@ for i in elements_navigator:
 json_data = json.dumps(data)
 
 print(json_data)
-    
 
-# # Recupere el parámetro pasado por Node.js
-# parametro = sys.argv[1]
 
-# # Use el parámetro en su script de Python
-# resultado = parametro
-
-# Imprima el resultado para que Node.js pueda leerlo
+# Imprime el resultado para que Node.js pueda leerlo
 print('resultado de walmart_products: ' + json_data + 'De la URL: TEST')

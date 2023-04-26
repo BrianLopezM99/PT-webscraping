@@ -19,10 +19,10 @@ app.listen(puerto, () => {
 app.get('/api/:parametro', (req, res) => {
     const parametro = req.params.parametro;
   
-    // Ejecute el script de Python y pase el parámetro
+
     const proceso = spawn('python', ['../python_scraping/walmart_products.py', parametro]);
   
-    // Capture la salida del proceso de Python y responda con ella
+
     proceso.stdout.on('data', (datos) => {
       res.send(datos.toString());
     });
